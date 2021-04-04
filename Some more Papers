@@ -4,3 +4,5 @@ I-GCN: Robust Graph Convolutional Network via Influence Mechanism https://arxiv.
 UNDERSTANDING GRAPH EMBEDDING METHODS AND THEIR APPLICATIONS https://arxiv.org/abs/2012.08019
 Analyzing the Performance of Graph Neural Networks with Pipe Parallelism  https://arxiv.org/abs/2012.10840
 Representation Learning of Reconstructed Graphs Using Random Walk Graph Convolutional Network https://arxiv.org/abs/2101.00417
+Revisiting Graph Based Collaborative Filtering A Linear Residual Graph Convolutional Network Approach https://arxiv.org/abs/2001.10167
+Efficient Graph Deep Learning in TensorFlow with tf_geometric https://arxiv.org/abs/2101.11552
